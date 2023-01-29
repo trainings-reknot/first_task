@@ -8,7 +8,7 @@
 </head>
 <body>
     
-
+<h2> Registration Form </h2>
 
 <form method="post" action="registration.php">
 
