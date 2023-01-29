@@ -14,6 +14,7 @@ if ($conn->connect_error) {
 }
 echo "Connected successfully";
 
+echo "This is jsut the demo for github"
 
 $firstname = $_POST["name"];
 $email = $_POST["email"];
